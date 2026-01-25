@@ -18,7 +18,7 @@ Trained baseline models for WebPII: A Synthetic Benchmark for Visual PII Detecti
 
 ## Model Format
 
-Models are provided in OpenVINO Intermediate Representation (IR) format for CPU inference. Load using OpenVINO Runtime for inference on images.
+Models are provided in [OpenVINO Intermediate Representation (IR)](https://docs.openvino.ai/2024/openvino-workflow/model-preparation.html) format for CPU inference. Load using [OpenVINO Runtime](https://docs.openvino.ai/2024/openvino-workflow/running-inference.html) for inference on images.
 
 ## Classes
 
