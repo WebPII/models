@@ -29,10 +29,9 @@ Both models detect two classes:
 ## Citation
 
 ```bibtex
-@inproceedings{anonymous2026webpii,
-  title={WebPII: A Synthetic Benchmark for Visual PII Detection in E-commerce Web Interfaces},
+@misc{anonymous2026webpii,
+  title={WebPII: Benchmarking Visual PII Detection for Computer-Use Agents},
   author={Anonymous Authors},
-  booktitle={International Conference on Machine Learning},
   year={2026}
 }
 ```
