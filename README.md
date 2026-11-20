@@ -26,6 +26,10 @@ Both models detect two classes:
 - **text**: Text-based PII elements
 - **image**: Product images and visual identifiers
 
+## License
+
+The weights are fine-tunes of Ultralytics YOLOv8, so they are released under YOLOv8's AGPL-3.0 license. See [LICENSE](LICENSE).
+
 ## Citation
 
 ```bibtex
